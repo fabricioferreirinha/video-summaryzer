@@ -177,7 +177,7 @@ export default function Home() {
             </div>
             <div>
               <h1 className="text-2xl font-semibold text-foreground">
-                Video Transcriber
+                AI Video Transcriber
               </h1>
               <p className="text-sm text-muted-foreground">
                 AI-powered transcription with OpenAI Whisper

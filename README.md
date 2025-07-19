@@ -1,4 +1,4 @@
-# Video Transcriber - Dual Architecture
+# AI Video Transcriber
 
 A dual-architecture video transcription application using OpenAI's Whisper AI model. Features both a modern Next.js web interface and a Python Streamlit desktop interface for transcribing videos with real-time progress tracking and automatic file saving.
 

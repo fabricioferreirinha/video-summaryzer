@@ -6,7 +6,7 @@ import { ThemeProvider } from '@/components/ThemeProvider'
 const inter = Inter({ subsets: ['latin'] })
 
 export const metadata: Metadata = {
-  title: 'Video Transcriber - AI-Powered Transcription',
+  title: 'AI Video Transcriber - AI-Powered Transcription',
   description: 'Transform your videos into accurate transcriptions using OpenAI Whisper',
 }
 

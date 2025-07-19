@@ -4,7 +4,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## Project Overview
 
-This is a dual-architecture video transcription application using OpenAI's Whisper AI model. It provides both a modern Next.js web interface and a Python Streamlit desktop interface for transcribing videos with real-time progress tracking and automatic file saving to the `./transcriptions/` folder.
+AI Video Transcriber is a dual-architecture video transcription application using OpenAI's Whisper AI model. It provides both a modern Next.js web interface and a Python Streamlit desktop interface for transcribing videos with real-time progress tracking and automatic file saving to the `./transcriptions/` folder.
 
 ## Development Commands
 

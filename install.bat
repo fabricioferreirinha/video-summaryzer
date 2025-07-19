@@ -1,5 +1,5 @@
 @echo off
-echo Installing Next.js Video Transcriber...
+echo Installing AI Video Transcriber...
 echo.
 
 REM Create node_modules directory if it doesn't exist

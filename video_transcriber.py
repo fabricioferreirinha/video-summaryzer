@@ -169,12 +169,12 @@ def transcribe_video(video_path, model_name, language, output_format, output_fol
 
 def main():
     st.set_page_config(
-        page_title="Video Transcriber with Whisper",
+        page_title="AI Video Transcriber with Whisper",
         page_icon="🎬",
         layout="wide"
     )
     
-    st.title("🎬 Video Transcriber with Whisper")
+    st.title("🎬 AI Video Transcriber with Whisper")
     st.markdown("Transcribe videos using OpenAI's Whisper model with real-time progress tracking")
     
     # Initialize session state
